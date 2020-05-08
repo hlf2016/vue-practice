@@ -20,4 +20,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 效果
 
-![WeHgw5](http://cdn.xuexiluo.com/uPic/WeHgw5.png)
+![效果图](https://github.com/hlf2016/vue-practice/blob/master/src/assets/images/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
